@@ -1,15 +1,35 @@
 article{
 	border: 2px solid #0000ff;
 	border-radius: 15px;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
 }
 h2{
-	border: 2px solid #FFFF00;
+	border: 2px solid #fff343;
 	border-radius: 15px;
+	text-align: center;
 }
 section{
-	background-color: #FFFF00;
+	background-color: #fff343;
 	border-radius: 15px;
+	padding-left: 30px;
+	padding-bottom: 15px;
+	padding-right: 30px;
+	padding-top: 15px;
 }
 body{
-	background-color: #0000ff;
+	background-color: #52baf2;
+}
+article:hover{
+	border: 5px solid #000;
+	margin-bottom: 9px;
+}
+article:hover section{
+	padding-bottom:
+}
+a{
+	text-decoration: none;
+	color: #000
 }
